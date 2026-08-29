@@ -3,10 +3,7 @@
 using namespace std;
 
     
-/* Questão 1 - Selection Sort básico Crie um programa em C++
-que possua uma lista com 10 números inteiros definidos diretamente no código.
-Implemente o algoritmo Selection Sort para ordenar os valores em ordem crescente. 
-Ao final, mostre a lista antes e depois da ordenação. */  
+
 
 int main()
 {
